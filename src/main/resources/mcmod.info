@@ -1,0 +1,10 @@
+[
+{
+  "modid": "recordfps",
+  "name": "Record FPS",
+  "description": "This mod records FPS!",
+  "version": "1.0.3",
+  "mcversion": "1.7.10",
+  "authorList": ["maru"]
+}
+]
